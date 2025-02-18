@@ -11,7 +11,7 @@ This is a simple text-based game written in Python where you have to guess a wor
 4. If the letter is not in the word, you lose one attempt.
 5. You have 6 attempts to guess the word.
 6. The game ends when you either guess the word or run out of attempts. 
-
+ 
 ### Example Game Flow:
 
 
