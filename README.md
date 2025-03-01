@@ -13,7 +13,7 @@ This is a simple text-based game written in Python where you have to guess a wor
 6. The game ends when you either guess the word or run out of attempts.  
   
 ### Example Game Flow:   
-  
+   
 
  
 
